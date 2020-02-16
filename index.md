@@ -12,32 +12,65 @@ Address: Soochow University, No. 333 Ganjiangdong Road, 215006, Suzhou, China
 
 ### Short Biography
 
-Yan Zhao is currently a PHD student major in Computer Science in Soochow University (advised by [Prof. Kai Zheng](http://zheng-kai.com/)). She received the Master degree in Geographic Information System from University of Chinese Academy of Sciences, in 2015. Her research interests include spatial database, trajectory computing, data mining, machine learning and deep learning.
+Yan Zhao is currently a PhD student major in Computer Science in Soochow University (advised by [Prof. Kai Zheng](http://zheng-kai.com/)). She received the Master degree in Geographic Information System from University of Chinese Academy of Sciences, in 2015. Her research interests include spatial database, trajectory analysis, data mining, machine learning and deep learning.
 
-```markdown
-Syntax highlighted code block
+### Publications (* Corresponding author)
 
-# Header 1
-## Header 2
-### Header 3
+1. [ICDE] **Yan Zhao**, Kai Zheng*, Yue Cui, Han Su, Feida Zhu, Xiaofang Zhou: Predictive Task Assignment in Spatial Crowdsourcing: A Data-driven Approach. to appear in ICDE 2020, Dallas, Texas, USA.
 
-- Bulleted
-- List
+2. [ICDM] Huizhao Wang, Guanfeng Liu, **Yan Zhao**, Bolong Zheng, Pengpeng Zhao, Kai Zheng*: DMFP: A Dynamic Multi-faceted Fine-grained Preference Model for Recommendation. ICDM 2019, Beijing, China.
 
-1. Numbered
-2. List
+3. [IJCAI] Jinfu Xia, **Yan Zhao**, Guanfeng Liu, Jiajie Xu, Min Zhang, Kai Zheng*: Profit-driven Task Assignment in Spatial Crowdsourcing. IJCAI 2019, Macau, China.
 
-**Bold** and _Italic_ and `Code` text
+4. [KDD] Yue Cui, Liwei Deng, **Yan Zhao**, Vicent W. Zheng, Bin Yao, Kai Zheng*: Hidden POI Ranking with Spatial Crowdsourcing. SIGKDD 2019, Anchorage, Alaska.
 
-[Link](url) and ![Image](src)
-```
+5. [TKDE] Junhua Fang, Rong Zhang, **Yan Zhao**, Kai Zheng*, Xiaofang Zhou, Aoying Zhou: A-DSP: An Adaptive Join Algorithm for Dynamic Data Stream on Cloud System. IEEE Trans. Knowl. Data Eng. (Accepted in Oct 2019).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+6. [TKDE] **Yan Zhao**, Kai Zheng*, Yang Li, Han Su, Jiajun Liu, Xiaofang Zhou: Destination-aware Task Assignment in Spatial Crowdsourcing: A Worker Decomposition Approach. IEEE Trans. Knowl. Data Eng. (Accepted in June 2019).
 
-### Jekyll Themes
+7. [TKDE] Kai Zheng, **Yan Zhao***, Defu Lian, Bolong Zheng, Guanfeng Liu, Xiaofang Zhou: Reference-based Framework for Spatio-temporal Trajectory Compression and Query Processing. IEEE Trans. Knowl. Data Eng. (Accepted in April 2019).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhaoyan-cloud/zhaoyan.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+8. [AAAI] **Yan Zhao**, Jinfu Xia, Guanfeng Liu, Han Su, Defu Lian, Shuo Shang and Kai Zheng*: Preference-aware Task Assignment in Spatial Crowdsourcing. AAAI 2019, Hawaiian, USA.
 
-### Support or Contact
+9. [DPD] Hao Zhou, **Yan Zhao***, Junhua Fang, Xuanhao Chen, Kai Zeng: Hybrid route recommendation with taxi and shared bicycles. (Accepted in December 2019).
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+10. [WWWJ] Anqi Zhao, Guanfeng Liu, Bolong Zheng, **Yan Zhao**, Kai Zheng: Temporal Paths Discovery with Multiple Constraints in Attributed Dynamic Graphs[J]. WWWJ. 1-24 (2019).
+
+11. [DASFAA] Huiping Yang, **Yan Zhao**, Jinfu Xia, Bin Yao, Min Zhang, Kai Zheng*: Music Playlist Recommendation with Long Short-Term Memory. DASFAA 2019: 416-432, Thailand. 
+
+12. [DASFAA] Lianming Zhou, Xuanhao Chen, **Yan Zhao**, Kai Zheng*: Top-K Spatio-Topic Query on Social Media Data. DASFAA 2019: 678-693, Thailand.
+
+13. [MTA] Junwen Lu, Guanfeng Liu, Bolong Zheng, **Yan Zhao**, Kai Zheng: Social Context-aware Trust Paths Finding for Trustworthy Service Provider Selection in Social Media. Multimedia Tools and Applications. 78(17): 24473-24500 (2019).
+
+14. [WISE] Maoxiang Hao, Zhixu Li*, **Yan Zhao** and Kai Zheng: Mining High-Quality Fine-Grained Type Information from Chinese Online Encyclopedias. WISE 2018: 345-360, Dubai.
+
+15. [DASFAA] Wenyan Yang, **Yan Zhao**, Bolong Zheng*, Guanfeng Liu and Kai Zheng: Modeling Travel Behavior Similarity with Trajectory Embedding. DASFAA 2018: 630-646, Australia.  
+
+16. [DASFAA] Mengdi Jia, **Yan Zhao**, Bolong Zheng, Guanfeng Liu and Kai Zheng*: A Time-aware Path-based Publish/Subscribe Framework. DASFAA 2018: 511-528, Australia.
+
+17. [KDD] **Yan Zhao**, Shuo Shang, Yu Wang, Bolong Zheng, Quoc Viet Hung Nguyen and Kai Zheng*: REST: A Reference-based Framework for Spatio-temporal Trajectory Compression. KDD 2018: 2797-2806, London, UK.
+
+18. [CIKM] **Yan Zhao**, Yang Li, Yu Wang, Han Su, Kai Zheng*: Destination-aware Task Assignment in Spatial Crowdsourcing. CIKM 2017: 297-306, Singapore.
+
+19. [APWEB] **Yan Zhao**, Jia Zhu*, Mengdi Jia, Wenyan Yang, Kai Zheng: A Novel Hybrid Friends Recommendation Framework for Twitter. APWEB 2017: 83-97, Beijing, China.
+
+###  Honors and Awards
+
+2019.01, AAAI 2019 Travel Award
+
+2018.08, SIGKDD 2018 Travel Award
+
+2017.11, CIKM 2017 Travel Award
+
+2017.09, Soochow University First-Grade Scholarship
+
+2016.09, Soochow University Second-Grade Scholarship
+
+2014.08, [Deutscher Akademischer Austausch Dienst (DAAD)](https://www.daad.de) Scholarship, Germany 
+
+2013.05, University of Chinese Academy of Sciences Miyoshi Outstanding Students
+
+2012.05, Chinese Academy of Sciences Miyoshi Outstanding Students    
+
+2011.05, Outstanding Graduate Award of Shandong Province, China 
+
