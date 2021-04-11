@@ -2,7 +2,7 @@
   <tr>
     <td width="75%">
       <h1>Zhao Yan (赵艳)</h1>
-      <p><b>PhD (博士生)</b></p>
+      <p><b>Assistant Professor (助理教授)</b></p>
       <p><a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=Oumc6Y4AAAAJ&view_op=list_works&gmla=AJsN-F4Mcdx7WA_X0P92YnKPJ53XghjFlVcFR5Ci71JnwKCO3EEtGU4VgdOmJct1EExlomSKyQWiMZH44t3skUHCjcx8M-d2u91JXNBD6itbZ8ymtTsP9RA">My Google Scholar Page</a> |
       <a href="https://dblp.uni-trier.de/pers/hd/z/Zhao_0008:Yan">My DBLP Page</a></p>
       <p><b>Email: zhaoyan@suda.edu.cn</b></p>
